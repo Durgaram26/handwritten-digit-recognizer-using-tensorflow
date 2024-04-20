@@ -16,7 +16,7 @@ Requirements:
 
 Installation:
 Clone the repository:
-git clone https://github.com/Durgaram26/handwritten-digit-recognizer.git
+git clone https://github.com/Durgaram26/handwritten-digit-recognizer-using-tensorflow.git
 Install the required dependencies:
 !pip install -r requirements.txt
 
