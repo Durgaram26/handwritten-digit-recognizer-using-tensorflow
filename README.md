@@ -1,7 +1,7 @@
 # handwritten-digit-recognizer-using-tensorflow
 A deep learning model trained to recognize handwritten digits using the MNIST dataset.
 Handwritten Digit Recognizer
-
+[(check out this video)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7187340743844196352)
 
 This project implements a deep learning model to recognize handwritten digits. It utilizes the MNIST dataset for training and testing.
 
